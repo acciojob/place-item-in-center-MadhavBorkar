@@ -3,7 +3,7 @@
 .holder{
 	display:flex;
 	justify-content:center;
-	align-content:center;
+	align-items:center;
 	width:100%vw;
 	height:100%vw;
 	background-color:skyblue;
